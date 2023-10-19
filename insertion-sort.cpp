@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int insertion_sort(int arr[], int size){
-    for (int i = i; i < size; i++)
+    for (int i = 1; i < size; i++)
     {
         int j = i-1;
         int temp =arr[i];
